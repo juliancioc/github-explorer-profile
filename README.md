@@ -12,5 +12,5 @@ Aplicação criada através do GoStack Bootcamp da Rocketseat, o objetivo é bus
 
 # Como iniciar:
 
-`yarn install` para instalar todos os pacotes.
-`yarn start` para iniciar rodar o projeto local.
+- `yarn install` para instalar todos os pacotes.
+- `yarn start` para iniciar rodar o projeto local.
