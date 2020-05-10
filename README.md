@@ -4,11 +4,11 @@ Aplicação criada através do GoStack Bootcamp da Rocketseat, o objetivo é bus
 
 # Este projeto utiliza:
 
-- ✔ Typescript
-- ✔ React
-- ✔ React Hooks
-- ✔ styled-components
-- ✔ Axios
+- Typescript
+- React
+- React Hooks
+- styled-components
+- Axios
 
 # Como iniciar:
 
